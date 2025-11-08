@@ -1,7 +1,7 @@
 # EMA Backtest
 
-**vectorized backtesting framework** for a **EMA20/50 crossover strategy** applied to multiple tech stocks using 5 years of historical data..  
-The project calculates key performance metrics (CAGR, Sharpe ratio, Max Drawdown, Win Rate) and visualizes results with equity curves and correlation heatmaps.
+**vectorized backtesting framework** for a **EMA20/50 crossover strategy** applied to multiple tech stocks using 5 years of stock data.
+This project calculates key performance metrics (CAGR, Sharpe ratio, Max Drawdown, Win Rate) and visualise the results.
 
 ---
 
@@ -28,5 +28,11 @@ pip install pandas numpy matplotlib yfinance
 | META   | 18.16% | -76.74% | 53.53% | 57.14% | 7.10 |
 | GOOG   | 26.59% | -44.60% | 82.52% | 36.36% | 2.40 |
 
+
+## Portfolio Equity Curve of EMA20/50 Strategy
+<img width="1015" height="483" alt="image" src="https://github.com/user-attachments/assets/3b0567fc-3a4e-46ce-a734-06550c05d0e3" />
+
 <img width="942" height="452" alt="image" src="https://github.com/user-attachments/assets/f52ad50b-3578-4366-9810-81af7484f413" />
 <img width="942" height="452" alt="image" src="https://github.com/user-attachments/assets/1cf25d64-6d98-461a-af38-75770c3bf3ec" />
+
+
